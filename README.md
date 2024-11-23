@@ -65,14 +65,14 @@ Web3 安全是去中心化网络的关键方面。这个项目旨在提供一个
 
 但是我认为一个良好的视频课程和一个一般的视频课程差别很大，可能很多人建议先开始，不论是一个良好的视频课程 or 一个一般的视频课程，只要开始了再换都可以，但是我觉得如果你需要开始你应该合理评估每个课程，多看几个，多做对比，并找到其中你认为最适合你的，以及讲师水平比较高的课程进行，这样或许可以让你少浪费很多时间。
 
-我刷X的时候看到了很多大佬推荐[Cyfrin Updraft](https: //updraft.cyfrin.io/)，我前两天在学习foundry框架的时候看过他们的课程，我认为他们讲的很好，所以我现在开始跟随他开始学习。
+我刷X的时候看到了很多大佬推荐[Cyfrin Updraft](https://updraft.cyfrin.io/)，我前两天在学习foundry框架的时候看过他们的课程，我认为他们讲的很好，所以我现在开始跟随他开始学习。
 
 ## 我的学习路线
 - **[cryptozombies](https://cryptozombies.io/)**: 一个僵尸游戏,通过构建一个web3游戏来学习solidity的教程。
 - **[foundry](https://book.getfoundry.sh/)**: 一个流行的合约开发框架。
 - **[hardhat](https://hardhat.org/)**: 一个流行的合约开发框架。
 - **[openzeppelin](https://www.openzeppelin.com/)**: 合约最大的依赖库。
-- **[Cyfrin Updraft](https: //updraft.cyfrin.io/ )**：一个很好的合约基础课程。
+- **[Cyfrin Updraft](https://updraft.cyfrin.io/)**：一个很好的合约基础课程。
 
 ## 资源
 - **书籍**: 《一本书读懂Web3.0：区块链、NFT、元宇宙和DAO 》 这本书讲解了一些web3的发展史和基本概念,可以加深一些对于web3的了解.
